@@ -52,7 +52,7 @@
 <a href= "https://www.instagram.com/leoegonz/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/sofia-espinola">
+<a href="https://www.linkedin.com/in/sofia-lespinola">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
